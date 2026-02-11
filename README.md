@@ -9,9 +9,7 @@ Through what I call **“Vibe Coding”**, I code with flow, intuition, and logi
 
 * 🔐 Building strong foundations in **Cybersecurity & Ethical Hacking**
 * 🤖 Exploring **AI Automation** – researching how intelligent systems streamline workflows
-* ✨ Practicing **Vibe Coding** – letting research and intuition guide the build process
 * 💡 Creating with **React, Flutter, and TypeScript**
-* 💬 Ask me about **AI Automation, React, Flutter, TypeScript, Cybersecurity**
 * 🌱 Always researching, building, and improving
 * 🌟 **Manifestation is REAL** – Research, Believe, Build, Achieve!
 

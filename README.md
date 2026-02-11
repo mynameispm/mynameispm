@@ -23,32 +23,6 @@ Through what I call **“Vibe Coding”**, I code with flow, intuition, and logi
 | ![](https://skillicons.dev/icons?i=ts,js,java,python\&perline=4) | ![](https://skillicons.dev/icons?i=react,flutter,nodejs,nextjs\&perline=4) | ![](https://skillicons.dev/icons?i=docker,git,github,kali\&perline=4) | ![](https://skillicons.dev/icons?i=mongodb,mysql,firebase\&perline=3) | ![](https://skillicons.dev/icons?i=linux,ubuntu,windows\&perline=3) | ![](https://skillicons.dev/icons?i=vscode,figma,postman\&perline=3) |
 
 
-## 🎯 What I'm Working On
-
-* 🔒 Strengthening my **Cybersecurity fundamentals** through real-world labs & tools
-* 🤖 Building **AI automations** that integrate research-driven intelligence
-* ✨ Developing through **Vibe Coding** – turning knowledge and flow into projects
-* 📱 Crafting **cross-platform apps** with React & Flutter
-* 🛡️ Practicing **Secure Coding Principles** – integrating safety from the ground up
-
-
-## 💻 Development Philosophy
-
-> **"Vibe Coding"** – I code with intention and curiosity.
-> Every project begins with research, transforms through intuition,
-> and ends as a creative solution that blends logic, design, and security.
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mynameispm\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameispm\&layout=compact\&theme=radical)
-
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mynameispm\&theme=radical)
-
 
 ## 📫 Let’s Connect
 

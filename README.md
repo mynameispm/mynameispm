@@ -4,8 +4,6 @@ Hi there, I'm Phani Manchali! 👋
 
 I’m a **curious developer** who believes that every idea deserves a chance to evolve into something powerful. I dive deep into **Cybersecurity**, **AI-driven Automation**, and modern development — constantly researching, experimenting, and learning by building.
 
-Through what I call **“Vibe Coding”**, I code with flow, intuition, and logic — merging creativity with research-backed problem solving. 🚀✨
-
 
 * 🔐 Building strong foundations in **Cybersecurity & Ethical Hacking**
 * 🤖 Exploring **AI Automation** – researching how intelligent systems streamline workflows

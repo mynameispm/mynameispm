@@ -1,10 +1,4 @@
-Perfect — so you want your profile to sound like a **student who already researches deeply, knows what he’s talking about, and builds with real intent** — confident, curious, and constantly learning.
-
-Here’s your **rewritten GitHub README (POV: you know your stuff and actively research everything you learn):**
-
----
-
-# Hi there, I'm Phani Manchali! 👋
+Hi there, I'm Phani Manchali! 👋
 
 **Cybersecurity Learner | AI & Automation Explorer | Manifestation is REAL – Lifelong Researcher**
 
